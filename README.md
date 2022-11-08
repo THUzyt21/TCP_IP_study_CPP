@@ -1,2 +1,2 @@
-# newwork_tcp_study
-notes for learning network&tcp/ip
+# TCP/IP_cpp_backend
+study for looking for a job in backend with C++
